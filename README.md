@@ -1,6 +1,6 @@
 # Phylotaxis
 
-![Alt text](Phylotaxis/src/img/ph.jpg?raw=true "Title")
+![Alt text](./src/img/ph.jpg?raw=true "Title")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
