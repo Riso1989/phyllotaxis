@@ -1,4 +1,7 @@
-# Phylotaxis
+# Phyllotaxis
+
+![Alt text](src/img/ph.JPG "Phyllotaxis example")
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
 
